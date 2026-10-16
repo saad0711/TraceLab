@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">TraceLab — Break things. Understand systems.</title>
+  <desc id="desc">A dark green cover with a lime TraceLab mark and an abstract five-service network.</desc>
+  <defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#7b9265" opacity=".16"/></pattern></defs>
+  <rect width="1280" height="420" rx="20" fill="#172018"/><rect width="1280" height="420" rx="20" fill="url(#dots)"/>
+  <g fill="none" stroke="#b6ef84" stroke-width="5" stroke-linecap="round"><path d="M56 53h30M71 53v30M62 66h24"/></g>
+  <text x="103" y="77" font-family="system-ui,sans-serif" font-size="34" font-weight="600" fill="#ecf3e5">tracelab</text>
+  <text x="57" y="141" font-family="system-ui,sans-serif" font-size="11" letter-spacing="3" fill="#9fba85">DISTRIBUTED SYSTEMS PLAYGROUND</text>
+  <text x="54" y="210" font-family="system-ui,sans-serif" font-size="51" font-weight="600" letter-spacing="-2" fill="#f1f5e9">Break things.</text>
+  <text x="54" y="271" font-family="system-ui,sans-serif" font-size="51" font-weight="400" letter-spacing="-2" fill="#b4d294">Understand systems.</text>
+  <text x="57" y="319" font-family="system-ui,sans-serif" font-size="14" fill="#9aa88b">Deterministic simulation. Reproducible chaos. Useful insights.</text>
+  <g font-family="system-ui,sans-serif" font-size="11" fill="#b4c7a0"><rect x="56" y="348" width="100" height="27" rx="5" fill="#2b3924"/><text x="75" y="366">TypeScript</text><rect x="166" y="348" width="143" height="27" rx="5" fill="#2b3924"/><text x="183" y="366">No API keys required</text></g>
+  <g stroke="#526646" stroke-width="2" fill="none"><path d="M779 210h34q16 0 16-16v-65h41M779 210h34q16 0 16 16v87h41M1011 129h35q17 0 17 17v98M1011 313h52v-13"/></g>
+  <g font-family="system-ui,sans-serif"><g transform="translate(645,171)"><rect width="137" height="83" rx="9" fill="#253020" stroke="#587245"/><circle cx="19" cy="21" r="5" fill="#b1d785"/><text x="15" y="46" font-size="14" fill="#dce8cf">API Gateway</text><text x="15" y="66" font-size="10" fill="#8fa47b">36 requests / sec</text></g><g transform="translate(870,91)"><rect width="142" height="83" rx="9" fill="#2a292f" stroke="#59525f"/><circle cx="19" cy="21" r="5" fill="#b8a8cc"/><text x="15" y="46" font-size="14" fill="#e6dcef">Catalog API</text><text x="15" y="66" font-size="10" fill="#a195ad">70% reads</text></g><g transform="translate(870,270)"><rect width="142" height="83" rx="9" fill="#332e21" stroke="#6a5a3b"/><circle cx="19" cy="21" r="5" fill="#cdb27d"/><text x="15" y="46" font-size="14" fill="#ebe0c9">Checkout API</text><text x="15" y="66" font-size="10" fill="#a99a7c">30% writes</text></g><g transform="translate(1040,203)"><rect width="170" height="89" rx="9" fill="#302720" stroke="#b39063"/><circle cx="19" cy="21" r="5" fill="#dbb079"/><text x="15" y="46" font-size="14" fill="#ede0ca">PostgreSQL</text><text x="15" y="69" font-size="10" fill="#c3a276">+600 ms · fault injected</text></g></g>
+  <circle cx="817" cy="210" r="4" fill="#b6ef84"/><circle cx="1063" cy="183" r="4" fill="#d8b372"/>
+</svg>
